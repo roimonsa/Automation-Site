@@ -1,0 +1,79 @@
+.icon-postman {
+	width: 48px;
+	height: 55px;
+}
+
+.icon-java {
+	width: 45px;
+	height: 45px;
+}
+
+.icon-testng {
+	width: 90px;
+	height: 70px;
+}
+
+
+.icon-html {
+	width: 48px;
+	height: 55px;
+}
+
+.icon-css {
+	width: 48px;
+	height: 55px;
+}
+
+.icon-selenium {
+	width: 45px;
+	height: 40px;
+}
+
+.icon-github {
+	width: 55px;
+	height: 55px;
+}
+
+.icon-maven {
+	width: 150px;
+	height: 50px;
+	position: relative;
+	left: -30px;
+}
+
+.icon-qc {
+	width: 48px;
+	height: 55px;
+}
+
+.icon-fiddler {
+	width: 55px;
+	height: 55px;
+	float: right;
+	position: relative;
+	right: 145px;
+	top: -6px;
+}
+
+.icon-git {
+	width: 70px;
+	height: 70px;	
+}
+
+.icon-linkedin{
+	width: 100%;
+	height: 100%;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.icon-cv{
+	border: 0.5px solid rgb(0, 0, 0);
+}
+
+.icon-cv:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+  }
+
+.icon-linkedin:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
